@@ -16,19 +16,10 @@
       <guid>https://wintertechforum.github.io/conference-theme/</guid>
       <description>
 
-&lt;h2 id=&#34;theme-powering-singularity-acceleration-with-artificial-intelligence-big-data-and-commodity-computing&#34;&gt;Theme: &lt;em&gt;Powering Singularity Acceleration with Artificial Intelligence, Big Data, and Commodity Computing&lt;/em&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;theme-tba&#34;&gt;Theme: &lt;em&gt;TBA&lt;/em&gt;&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Machine Learning&lt;/li&gt;
-&lt;li&gt;TensorFlow&lt;/li&gt;
-&lt;li&gt;Data Science&lt;/li&gt;
-&lt;li&gt;Platforms for Big Data&lt;/li&gt;
-&lt;li&gt;Distributed Big Data Systems&lt;/li&gt;
-&lt;li&gt;From Big Data to Responsive Systems&lt;/li&gt;
-&lt;li&gt;Containerizing the Serverless Cloud&lt;/li&gt;
-&lt;li&gt;Tradeoffs in Software&lt;/li&gt;
-&lt;li&gt;Java 8 Concurrency&lt;/li&gt;
-&lt;li&gt;Commit To Production, Without Human Intervention&lt;/li&gt;
+&lt;li&gt;(Topics here)&lt;/li&gt;
 &lt;li&gt;And lots more&lt;/li&gt;
 &lt;li&gt;Plus anything else anyone wants to talk about, of course&lt;/li&gt;
 &lt;li&gt;And our business track&lt;/li&gt;
@@ -40,19 +31,15 @@ of the theme is to stimulate ideas, not to prevent discussion.&lt;/p&gt;
 
 &lt;h2 id=&#34;wednesday-hackathon&#34;&gt;Wednesday Hackathon&lt;/h2&gt;
 
-&lt;p&gt;The general theme of the hackathons are &amp;ldquo;Alternative Languages on the
-JVM.&amp;rdquo; They will take place in either the conference venue
-([@PH]{.citation}) or the various houses that are rented by groups in
-town. In the past there have been Scala, Jython, JRuby and Groovy
-hackathons, and also hackathons that focus on a particular product or
-technology. The theme is just a suggestion; if you can get a group
-together that wants to explore a topic, go for it.&lt;/p&gt;
+&lt;p&gt;Hackathons typically explore new technologies or even create new product
+prototypes. Past hackathons have ranged from hardware projects to the
+exploration of new languages, and some have focused on a particular product or
+technology. If you can get a group together that wants to explore a topic, go
+for it.&lt;/p&gt;
 
-&lt;p&gt;In the past, hackathons have explored new technologies or even created
-new product prototypes.&lt;/p&gt;
-
-&lt;p&gt;The evening of the hackathon, results are presented in the &lt;em&gt;Hackathon
-Showcase Lightning Talks&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Hackathons take place in either the conference venue or the various houses
+that are rented by groups in town. The evening of the hackathon, results are
+presented in the &lt;em&gt;Hackathon Showcase Lightning Talks&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
     

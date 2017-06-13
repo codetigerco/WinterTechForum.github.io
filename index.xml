@@ -17,7 +17,7 @@
       <description>&lt;p&gt;&lt;img src=&#34;https://WinterTechForum.github.io/images/wtf-web-nodate.jpg&#34; alt=&#34;Hiker and Mountains&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-size:75%&#34;&gt;(Formerly The Java Posse Roundup)&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
-&lt;span style=&#34;font-size:250%&#34;&gt;March 6-10, 2017&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
+&lt;span style=&#34;font-size:250%&#34;&gt;Feb 26 - March 2, 2018&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
 &lt;span style=&#34;font-size:150%&#34;&gt;Attendance limited to 40&lt;br/&gt;
 Price: $750&lt;/span&gt;&lt;/p&gt;
 
@@ -42,19 +42,10 @@ Photo courtesy &lt;a href=&#34;http://www.jcleacock.com/&#34;&gt;JC Leacock&lt;/
       <guid>https://wintertechforum.github.io/conference-theme/</guid>
       <description>
 
-&lt;h2 id=&#34;theme-powering-singularity-acceleration-with-artificial-intelligence-big-data-and-commodity-computing&#34;&gt;Theme: &lt;em&gt;Powering Singularity Acceleration with Artificial Intelligence, Big Data, and Commodity Computing&lt;/em&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;theme-tba&#34;&gt;Theme: &lt;em&gt;TBA&lt;/em&gt;&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Machine Learning&lt;/li&gt;
-&lt;li&gt;TensorFlow&lt;/li&gt;
-&lt;li&gt;Data Science&lt;/li&gt;
-&lt;li&gt;Platforms for Big Data&lt;/li&gt;
-&lt;li&gt;Distributed Big Data Systems&lt;/li&gt;
-&lt;li&gt;From Big Data to Responsive Systems&lt;/li&gt;
-&lt;li&gt;Containerizing the Serverless Cloud&lt;/li&gt;
-&lt;li&gt;Tradeoffs in Software&lt;/li&gt;
-&lt;li&gt;Java 8 Concurrency&lt;/li&gt;
-&lt;li&gt;Commit To Production, Without Human Intervention&lt;/li&gt;
+&lt;li&gt;(Topics here)&lt;/li&gt;
 &lt;li&gt;And lots more&lt;/li&gt;
 &lt;li&gt;Plus anything else anyone wants to talk about, of course&lt;/li&gt;
 &lt;li&gt;And our business track&lt;/li&gt;
@@ -66,19 +57,15 @@ of the theme is to stimulate ideas, not to prevent discussion.&lt;/p&gt;
 
 &lt;h2 id=&#34;wednesday-hackathon&#34;&gt;Wednesday Hackathon&lt;/h2&gt;
 
-&lt;p&gt;The general theme of the hackathons are &amp;ldquo;Alternative Languages on the
-JVM.&amp;rdquo; They will take place in either the conference venue
-([@PH]{.citation}) or the various houses that are rented by groups in
-town. In the past there have been Scala, Jython, JRuby and Groovy
-hackathons, and also hackathons that focus on a particular product or
-technology. The theme is just a suggestion; if you can get a group
-together that wants to explore a topic, go for it.&lt;/p&gt;
+&lt;p&gt;Hackathons typically explore new technologies or even create new product
+prototypes. Past hackathons have ranged from hardware projects to the
+exploration of new languages, and some have focused on a particular product or
+technology. If you can get a group together that wants to explore a topic, go
+for it.&lt;/p&gt;
 
-&lt;p&gt;In the past, hackathons have explored new technologies or even created
-new product prototypes.&lt;/p&gt;
-
-&lt;p&gt;The evening of the hackathon, results are presented in the &lt;em&gt;Hackathon
-Showcase Lightning Talks&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Hackathons take place in either the conference venue or the various houses
+that are rented by groups in town. The evening of the hackathon, results are
+presented in the &lt;em&gt;Hackathon Showcase Lightning Talks&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -98,6 +85,12 @@ ensuring that you are always having the most interesting
 &lt;strong&gt;conversation&lt;/strong&gt; possible. The emphasis is on &lt;em&gt;discussion&lt;/em&gt;, instead of
 listening to eyes-forward presentations.&lt;/p&gt;
 
+&lt;p&gt;Open Spaces is a simple methodology for self-organizing conference tracks.
+It relies on participation by people who have a passion for the topics
+to be discussed. There is no preplanned list of topics, only time slots
+and a space in the main meeting room where interested participants
+propose topics and pick time slots.&lt;/p&gt;
+
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;http://media.libsyn.com/media/dickwall/Open SpacesIntro.mov&#34;&gt;View a brief screencast about Open Spaces&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -105,12 +98,6 @@ listening to eyes-forward presentations.&lt;/p&gt;
 &lt;p&gt;(Open Spaces conferences have also been called &amp;ldquo;Unconferences.&amp;rdquo; Here&amp;rsquo;s a
 &lt;a href=&#34;http://www.businessweek.com/magazine/content/07_20/b4034080.htm&#34;&gt;Business Week
 Article&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;Open Spaces is a simple methodology for self-organizing conference tracks.
-It relies on participation by people who have a passion for the topics
-to be discussed. There is no preplanned list of topics, only time slots
-and a space in the main meeting room where interested participants
-propose topics and pick time slots.&lt;/p&gt;
 
 &lt;p&gt;Open Spaces have been used for conferences and as a facilitation technique
 for company meetings, community organizations, and other groups that
